@@ -1,8 +1,6 @@
+本範例使用OpenCV 4.0.1, QT 5.7.1, QT Creator 4.2.0, 適用樹莓派 Pi 3A+ / 3B+。
+
 完整填坑心得請參閱 <a href="https://omnixri.blogspot.com/2019/03/pi-3opencv-4-qt5.html" target="_blank">https://omnixri.blogspot.com/2019/03/pi-3opencv-4-qt5.html</a>
-
-[完整填坑心得請參閱] (https://omnixri.blogspot.com/2019/03/pi-3opencv-4-qt5.html?_blank)
-
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 
 opencv_install.sh 為完整安裝程序，下載到樹莓派，切換到根目錄(cd /home/pi或cd ~)後執行 ./opencv_install.sh 安裝過程需數小時，建議準備小風扇對著板子吹，以免CPU過熱造成速度變慢或當機。
 
