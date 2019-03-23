@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/OmniXRI/OpenCV4_QT5_Pi3/master/20190324_OpenCV4_QT5_Fig01.png
+![image](https://raw.githubusercontent.com/OmniXRI/OpenCV4_QT5_Pi3/master/20190324_OpenCV4_QT5_Fig01.png)
 
 本範例使用OpenCV 4.0.1, QT 5.7.1, QT Creator 4.2.0, 適用樹莓派 Pi 3A+ / 3B+。
 
