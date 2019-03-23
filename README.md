@@ -1,6 +1,6 @@
 完整填坑心得請參閱 <a href="https://omnixri.blogspot.com/2019/03/pi-3opencv-4-qt5.html" target="_blank">https://omnixri.blogspot.com/2019/03/pi-3opencv-4-qt5.html</a>
 
-完整填坑心得請參閱 [link](https://omnixri.blogspot.com/2019/03/pi-3opencv-4-qt5.html){:target="_blank"}
+[Link](https://omnixri.blogspot.com/2019/03/pi-3opencv-4-qt5.html "title" target="_blank")
 
 opencv_install.sh 為完整安裝程序，下載到樹莓派，切換到根目錄(cd /home/pi或cd ~)後執行 ./opencv_install.sh 安裝過程需數小時，建議準備小風扇對著板子吹，以免CPU過熱造成速度變慢或當機。
 
